@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 ##### Tasks : 
 - [ ] Upload Fruitmachine - C++
 - [ ] Upload a usable form of **Zork** - C++
-- [ ] this is an incomplete item
 
