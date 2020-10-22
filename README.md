@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 Main Languages | Secondary Languages | Center aligned Header
 | :--- | ---: | :---:
-C++  | MySQL| Content Cell
+<img src="https://image.flaticon.com/icons/png/128/2306/2306030.png" alt="drawing" width="10"/>C++  | MySQL| Content Cell
 Python  | JavaScript | Content Cell
 HMTL5  | CSS | Content Cell
 #### I’m currently working on :dragon: 'Zork' - an RP text-based game to expand my C++ experience.
