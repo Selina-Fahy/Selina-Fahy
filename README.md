@@ -24,6 +24,11 @@ Here are some ideas to get you started:
 * <img src="https://findicons.com/files/icons/2166/oxygen/128/application_x_python.png" alt="drawing" width="50"/> **Python** 
 * <img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-128.png" alt="drawing" width="50"/> **HTML5**
 
+  Main Langauges   | Other Languages
+------------------ | ---------------
+* <img src="https://image.flaticon.com/icons/png/128/2306/2306030.png" alt="drawing" width="50"/> **C++**       | Content Cell
+* <img src="https://findicons.com/files/icons/2166/oxygen/128/application_x_python.png" alt="drawing" width="50"/> **Python**       |  \| 
+* <img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-128.png" alt="drawing" width="50"/> **HTML5**      |  \| 
 #### I’m currently working on :dragon: 'Zork' - an RP text-based game to expand my C++ experience.
 
 
