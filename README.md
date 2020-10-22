@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 Main Languages | Secondary Languages | Center aligned Header
 | :--- | ---: | :---:
-<img src="https://image.flaticon.com/icons/png/128/2306/2306030.png" alt="drawing" width="30"/>C++  | MySQL| Content Cell
-<img src="https://findicons.com/files/icons/2166/oxygen/128/application_x_python.png" alt="drawing" width="40"/> Python  | JavaScript | Content Cell
-<img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-128.png" alt="drawing" width="20"/> HMTL5  | CSS | Content Cell
+<img src="https://image.flaticon.com/icons/png/128/2306/2306030.png" alt="drawing" width="40"/>C++  | MySQL| Content Cell
+<img src="https://findicons.com/files/icons/2166/oxygen/128/application_x_python.png" alt="drawing" width="30"/> Python  | JavaScript | Content Cell
+<img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-128.png" alt="drawing" width="30"/> HMTL5  | CSS | Content Cell
 #### I’m currently working on :dragon: 'Zork' - an RP text-based game to expand my C++ experience.
 
 
