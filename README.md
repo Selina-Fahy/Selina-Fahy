@@ -25,10 +25,11 @@ Here are some ideas to get you started:
 
 
 Main Languages | Secondary Languages | Currently Learning
-| :--- | :--- | :---:
+| :---: | :---: | :---:
 C++  | MySQL(PHPMyAdmin) and SQLite| Java
  Python  | JavaScript | Assembly
 HMTL5  | CSS | Content Cell
+PHP  | CSS | Content Cell
 #### I’m currently working on :dragon: 'Zork' - an RP text-based game to expand my C++ knowledge and experience.
 
 
