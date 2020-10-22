@@ -14,22 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![Alt text]
-
+* <img src="https://image.flaticon.com/icons/png/128/2306/2306030.png" alt="drawing" width="50"/> **C++** 
+* <img src="https://findicons.com/files/icons/2166/oxygen/128/application_x_python.png" alt="drawing" width="50"/> **Python** 
+* <img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-128.png" alt="drawing" width="50"/> **HTML5**
 -->
 
 
 
 #### :boom: What I am currently experienced in:
-* <img src="https://image.flaticon.com/icons/png/128/2306/2306030.png" alt="drawing" width="50"/> **C++** 
-* <img src="https://findicons.com/files/icons/2166/oxygen/128/application_x_python.png" alt="drawing" width="50"/> **Python** 
-* <img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-128.png" alt="drawing" width="50"/> **HTML5**
 
-Main Languages | Secondary Languages | Center aligned Header
-| :--- | ---: | :---:
-<img src="https://image.flaticon.com/icons/png/128/2306/2306030.png" alt="drawing" width="40"/>C++  | MySQL| Content Cell
-<img src="https://findicons.com/files/icons/2166/oxygen/128/application_x_python.png" alt="drawing" width="30"/> Python  | JavaScript | Content Cell
-<img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-128.png" alt="drawing" width="30"/> HMTL5  | CSS | Content Cell
-#### I’m currently working on :dragon: 'Zork' - an RP text-based game to expand my C++ experience.
+
+Main Languages | Secondary Languages | Currently Learning
+| :--- | :--- | :---:
+<img src="https://image.flaticon.com/icons/png/128/2306/2306030.png" alt="drawing" width="40"/>C++  | <img src=" https://alternative.me/media/256/phpmyadmin-icon-c5y4ba89val6345n-c.png" alt="SQL" width="50"/> MySQL + SQLite| Java
+<img src="https://findicons.com/files/icons/2166/oxygen/128/application_x_python.png" alt="drawing" width="30"/> Python  | JavaScript | Assembly
+<img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-128.png" alt="drawing" width="30"/> HMTL5  | <img src="https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg" alt="CSS3" width="30"/> CSS | Content Cell
+#### I’m currently working on :dragon: 'Zork' - an RP text-based game to expand my C++ knowledge and experience.
 
 
 
