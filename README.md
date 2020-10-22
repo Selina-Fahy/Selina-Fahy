@@ -24,10 +24,11 @@ Here are some ideas to get you started:
 * <img src="https://findicons.com/files/icons/2166/oxygen/128/application_x_python.png" alt="drawing" width="50"/> **Python** 
 * <img src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-128.png" alt="drawing" width="50"/> **HTML5**
 
-Left aligned Header | Right aligned Header | Center aligned Header
+Main Languages | Secondary Languages | Center aligned Header
 | :--- | ---: | :---:
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
+C++  | MySQL| Content Cell
+Python  | JavaScript | Content Cell
+HMTL5  | CSS | Content Cell
 #### I’m currently working on :dragon: 'Zork' - an RP text-based game to expand my C++ experience.
 
 
