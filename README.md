@@ -35,8 +35,8 @@ PHP  |  |
 
 
 ##### Tasks : 
-- [ ] Upload Fruitmachine - C++
-- [ ] Upload a usable form of **Zork** - C++
+- [x] Upload Fruitmachine - C++
+- [x] Upload a usable form of **Zork** - C++
 - [ ] Upload Wemos project
 - [ ] Old website design - Done for University
 
