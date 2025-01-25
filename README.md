@@ -1,5 +1,5 @@
 ## Hi there 👋
-### 🌱 I’m currently undergoing a Bachelor's degree in Ethical Hacking and CyberSecurity at Abertay Univeristy
+### 🌱 I graduated a Bachelor's degree in Ethical Hacking and CyberSecurity at Abertay Univeristy - 2022
 <!--
 **Mathswiz101/Mathswiz101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,17 +27,17 @@ Here are some ideas to get you started:
 Main Languages | Secondary Languages | Currently Learning
 | :---: | :---: | :---:
 C++  | MySQL(PHPMyAdmin) and SQLite| Java
- Python  | JavaScript | Assembly
+ Python  | JavaScript | 
 HMTL5  | CSS | 
-PHP  |  | 
+PHP  | Javascript | 
 #### I’m currently working on :dragon: 'Zork' - an RP text-based game to expand my C++ knowledge and experience.
 
 
-
+<!--
 ##### Tasks : 
 - [x] Upload Fruitmachine - C++
 - [x] Upload a usable form of **Zork** - C++
 - [ ] Upload Wemos project
 - [ ] Old website design - Done for University
 
-
+-->
